@@ -1,0 +1,15 @@
+ProductID,ProductName,NumberAvailable,Category,Price,AdditionalInfo1,AdditionalInfo2
+P1,Denim,15,Clothing,1500.0,blue,16
+P2,Socks,12,Clothing,120.0,red,16
+P3,shirt,2,Clothing,2000.0,blue,2
+P4,phone,22,Electronics,100000.0,Apple,2
+P5,tshirt,15,Clothing,1500.0,Blue,16
+P6,caps,12,Clothing,120.0,red,16
+P7,hair band,2,Clothing,2000.0,blue,2
+P8,battery,22,Electronics,12222.0,apple,2
+P9,tshirt,5,Clothing,2000.0,blue,M
+P10,phone,2,Electronics,1000.0,apple,2
+P11,Tshirt,2,Clothing,12200.0,red,M
+P12,shirt,7,Clothing,1000.0,red,M
+
+

@@ -1,0 +1,6 @@
+ProductID,ProductName,NumberAvailable,Category,Price,AdditionalInfo1,AdditionalInfo2
+P1,Denim,15,Clothing,1500.0,Blue,16
+P2,Socks,12,Clothing,120.0,red,16
+
+P3,qqqq,2,Clothing,2333.0,w,w
+P3,wwww,12,Clothing,1200.0,qpp,2
